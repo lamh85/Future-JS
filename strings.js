@@ -1,0 +1,1 @@
+"hello world".startsWith("hello") && console.log("it does!")
